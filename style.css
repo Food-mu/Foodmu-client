@@ -1,0 +1,15 @@
+div {
+    text-align: center;
+}
+.start_btn {
+    width: 200px;
+    height: 50px;
+    border: 3.5px solid black;
+    background-color: #FFAA5B;
+    margin: auto;
+    display: block;
+    border-radius: 50px;
+}
+.start_btn:hover {
+    background: white;
+}
