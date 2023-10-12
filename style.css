@@ -1,9 +1,17 @@
 div {
     text-align: center;
+    position: absolute;     /*정중앙 정렬을 위한 코드*/
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+img {
+    width: 545px;
+    height: 245px;
 }
 .start_btn {
-    width: 200px;
-    height: 50px;
+    width: 250px;
+    height: 60px;
     border: 3.5px solid black;
     background-color: #FFAA5B;
     margin: auto;
@@ -11,5 +19,5 @@ div {
     border-radius: 50px;
 }
 .start_btn:hover {
-    background: white;
+    background: white;      /*마우스에 버튼을 올리면 색이 변함*/
 }
