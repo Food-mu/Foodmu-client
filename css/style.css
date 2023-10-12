@@ -17,6 +17,7 @@ img {
     margin: auto;
     display: block;
     border-radius: 50px;
+    font-size: 2em;
 }
 .start_btn:hover {
     background: white;      /*마우스에 버튼을 올리면 색이 변함*/
