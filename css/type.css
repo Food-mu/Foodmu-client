@@ -1,0 +1,42 @@
+.img{
+    width: 160x;
+    height: 84px;
+}
+header{
+    font-size: 37px;
+    text-align: center;
+}
+/* header:after{
+    content: "16강 8강";
+    font-size: 25px;    글씨가 써지긴 하는데 애매해서 주석으로 답니당..
+    
+} */
+.type-button{
+    text-align: center;
+}
+.food-btn{
+    width: 250px;
+    height: 150px;    /* 박스 모서리 둥글게 만들기*/
+    border: 3.5px solid black;
+    background-color: #FFAA5B;
+    border-radius: 40px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    font-size: 3em;    /* 박스 안 클자 크기 키우기 */
+}
+.rest-btn{
+    width: 250px;
+    height: 150px;
+    border: 3.5px solid black;
+    background-color: #FFD8B5;
+    border-radius: 40px;
+    margin-left: 40px;
+    font-size: 3em;    /* 박스 안 클자 크기 키우기 */
+    
+}
+.food-btn:hover {
+    background: white;      /*마우스에 버튼을 올리면 색이 변함*/
+}
+.rest-btn:hover {
+    background: white;      
+}
