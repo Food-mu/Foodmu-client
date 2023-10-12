@@ -1,0 +1,9 @@
+.title_btn {
+    width: 250px;
+    height: 60px;
+    text-align: center;
+    border: 1px solid black;
+    background-color: #FFAA5B;
+    border-radius: 50px;
+    font-size: 2em;
+}
