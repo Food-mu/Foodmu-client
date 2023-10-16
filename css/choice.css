@@ -1,4 +1,8 @@
-div{
+.div_title {
+    text-align: center;
+}
+.div_img {
+    display: inline-block;
     text-align: center;
 }
 .title_btn {
