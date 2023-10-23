@@ -2,20 +2,25 @@
     text-align: center;
 }
 .div_img {
-    display: inline-block;
-    text-align: center;
+    width: 600px;
+    margin: auto;
+    display: flex;
 }
 .title_btn {
     width: 250px;
     height: 60px;
+    margin: 30px;
     text-align: center;
-    border: 1px solid black;
+    border: 2px solid black;
     background-color: #FFAA5B;
     border-radius: 50px;
     margin-bottom: 50px;
     font-size: 2em;
 }
-.choice-btn{
+.choice-btn {
     width: 200px;
     height: 200px;
+}
+h1 {
+    margin: 70px; /*사진과 붙어있지 않게 하기 위해*/
 }
