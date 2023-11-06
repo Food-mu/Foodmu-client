@@ -1,4 +1,4 @@
-CREATE TABLE `kfood` (
+CREATE TABLE `challenge` (
   `id` int NOT NULL AUTO_INCREMENT,
   `name` varchar(10) NOT NULL,
   PRIMARY KEY (`id`)
